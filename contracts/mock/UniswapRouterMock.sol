@@ -1,4 +1,4 @@
-pragma solidity ^0.5.0;
+pragma solidity >=0.5.0;
 
 import "../external_interfaces/IUniswapV2Router01.sol";
 import "@openzeppelin/contracts/math/Math.sol";
